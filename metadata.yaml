@@ -1,0 +1,28 @@
+_repo: The-Song-of-the-Blood-Red-Flower_12935
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Linnankoski, Johannes
+    alias: Peltonen, Vihtori
+    birthdate: 1869
+    deathdate: 1913
+    gutenberg_agent_id: '4130'
+    url: http://www.gutenberg.org/2009/agents/4130
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Johannes_Linnankoski
+    - http://fi.wikipedia.org/wiki/Johannes_Linnankoski
+description: Cover -- Contents.
+gutenberg_issued: '2004-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12935'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Fiction'
+- GITenberg
+title: The Song of the Blood-Red Flower
+url: http://www.gutenberg.org/ebooks/12935
