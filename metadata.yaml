@@ -1,5 +1,8 @@
 _repo: The-Song-of-the-Blood-Red-Flower_12935
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Linnankoski, Johannes
@@ -12,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Johannes_Linnankoski
     - http://fi.wikipedia.org/wiki/Johannes_Linnankoski
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12935#The-Song-of-the-Blood-Red-Flower
 gutenberg_issued: '2004-07-18'
 gutenberg_type: Text
 identifiers:
